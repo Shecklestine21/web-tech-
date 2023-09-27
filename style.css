@@ -1,0 +1,42 @@
+html {
+  background-color: rgb(0, 0, 0);
+}
+
+h1 {
+  color: rgb(255, 0, 0);
+}
+
+h2 {
+  color: rgb(21, 255, 0);
+}
+
+li,
+p {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: red;
+}
+
+a {
+  color: rgb(0, 17, 255);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: blue;
+  font-size: large;
+}
+
+body {
+  background-color: white;
+  border: 10px solid rgb(255, 0, 0);
+  border-radius: 100px;
+  width: 500px;
+  margin: 50px auto;
+  padding: 25px 75px;
+}
+
+h3 {
+  color: rgb(255, 255, 255);
+}
